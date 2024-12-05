@@ -11,6 +11,11 @@
             }
         }
     ],
+    
+        "limits": {
+          "maxRequestBodySize": "100mb"
+        },
+      
     "routes": [
         {
             "src": "/(.*)",

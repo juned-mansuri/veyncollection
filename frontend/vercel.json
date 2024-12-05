@@ -4,5 +4,9 @@
         "source": "/(.*)",
         "destination": "/"
       }
-    ]
+    ],
+    
+    "limits": {
+      "maxRequestBodySize": "100mb"
+    }
   }
