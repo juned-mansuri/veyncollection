@@ -16,7 +16,7 @@ import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import Verify from './pages/Verify'
 import Profile from './pages/Profile'
-import Terms from './pages/terms'
+import Terms from './pages/Terms'
 
 
 const App = () => {
