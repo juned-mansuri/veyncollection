@@ -16,7 +16,7 @@ const Contact = () => {
         <div className='flex flex-col justify-center items-start gap-6'>
           <p className=' font-semibold text-xl text-gray-600'>Our Store</p>
           <p className=' text-gray-500'>458001 , kityani <br /> Mandsaur , Madhya Pradesh</p>
-          <p className=' text-gray-500'>Tel: (+91) 7415422093 <br /> Email : jayp52994@gmail.com</p>
+          <p className=' text-gray-500'>Tel: (+91) 8821851060 <br /> Email : 0junedmansuri@gmail.com</p>
           <p className=' font-semibold text-xl text-gray-600'>Careers At our Business</p>
           <p className=' text-gray-500'>Learn More about Our team and job openings.</p>
           <a href="#contact">

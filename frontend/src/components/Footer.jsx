@@ -32,6 +32,9 @@ const Footer = () => {
             <NavLink to="/contact" >
               <li>Contact</li>
             </NavLink>
+            <NavLink to="/terms" >
+              <li>Terms and Conditions</li>
+            </NavLink>
            
           </ul>
         </div>
@@ -39,8 +42,8 @@ const Footer = () => {
         <div>
           <p className="text-xl font-medium mb-5">GET IN TOUCH</p>
           <ul className="flex flex-col gap-1 text-gray-600">
-            <li>+91 7415422093</li>
-            <li>jayp52994@gmail.com</li>
+            <li>+91 8821851060</li>
+            <li>0junedmansuri@gmail.com</li>
           </ul>
         </div>
       </div>
