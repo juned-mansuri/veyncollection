@@ -1,6 +1,6 @@
 import React from "react";
 
-const terms = () => {
+const Terms = () => {
   return (
     <div className="container mx-auto px-4 py-10 text-gray-800">
       <div className="max-w-4xl mx-auto">
@@ -381,4 +381,4 @@ const terms = () => {
   );
 };
 
-export default terms;
+export default Terms;
