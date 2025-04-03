@@ -325,8 +325,7 @@ useEffect(() => {
         <div className="mt-12">
           <Title text1={"PAYMENT"} text2={"METHOD"} />
           {/* Payment Methods  */}
-          <div className="flex gap-3 flex-col lg:flex-row">
-            <div
+          {/*     <div
               onClick={() => setMethod("stripe")}
               className="flex items-center gap-3 border p-2 px-3 cursor-pointer"
             >
@@ -337,6 +336,9 @@ useEffect(() => {
               ></p>
               <img className="h-5 mx-4" src={assets.stripe_logo} alt="" />
             </div>
+              */}
+          <div className="flex gap-3 flex-col lg:flex-row">
+        
             <div
               onClick={() => setMethod("razorpay")}
               className="flex items-center gap-3 border p-2 px-3 cursor-pointer"
